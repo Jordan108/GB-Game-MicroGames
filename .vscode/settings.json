@@ -1,0 +1,25 @@
+{
+    "files.exclude": {
+        "obj": true,
+        "Debug": true,
+        "DebugColor": true,
+        "Release": true,
+        "ReleaseColor": true,
+        "*.bat": true,
+        "*.log": true,
+        "*.sln": true,
+        "*.vcxproj*": true,
+        "*.db": true,
+        ".gitignore": true,
+        ".vs": true
+    },
+    "files.associations": {
+        "spritemanager.h": "c",
+        "print.h": "c",
+        "setautobank.h": "c",
+        "zgbmain_init.h": "c",
+        "zgbmain.h": "c",
+        "scroll.h": "c",
+        "rand.h": "c"
+    }
+}

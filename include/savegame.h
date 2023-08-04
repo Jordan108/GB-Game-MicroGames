@@ -1,0 +1,1 @@
+//No se ocupara savegame, pero en las pruebas, al implementarlo, se volvio obligatorio la presencia de este archivo
